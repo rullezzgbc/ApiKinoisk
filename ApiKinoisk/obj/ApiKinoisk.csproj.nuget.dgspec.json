@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk.csproj": {}
+    "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk.csproj": {
+    "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk.csproj",
+        "projectUniqueName": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk.csproj",
         "projectName": "ApiKinoisk",
-        "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk.csproj",
+        "projectPath": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk.csproj",
         "packagesPath": "C:\\Users\\timaf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\obj\\",
+        "outputPath": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiKinoisk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6b71e5c5d423c6f6d42d2a326bca8364524d323")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27edc0b579dc21130645db39ff945e2aefdf0463")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiKinoisk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiKinoisk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
