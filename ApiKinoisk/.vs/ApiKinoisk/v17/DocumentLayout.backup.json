@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\controllers\\rewiewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\controllers\\rewiewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\models\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|c:\\users\\timaf\\documents\\github\\apikinoisk\\apikinoisk\\apikinoisk\\apikinoisk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8143EEAF-F1CF-4764-88FC-894F5B4C4818}|ApiKinoisk\\ApiKinoisk.csproj|solutionrelative:apikinoisk\\apikinoisk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +54,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 155,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiKinoisk\\appsettings.json",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\appsettings.json",
+              "RelativeToolTip": "ApiKinoisk\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T12:22:58.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Program.cs",
+              "RelativeDocumentMoniker": "ApiKinoisk\\Program.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Program.cs",
+              "RelativeToolTip": "ApiKinoisk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:21:32.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ApiKinoisk\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Models\\User.cs",
+              "RelativeToolTip": "ApiKinoisk\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:12:15.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RewiewController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\RewiewController.cs",
+              "RelativeDocumentMoniker": "ApiKinoisk\\Controllers\\RewiewController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\RewiewController.cs",
+              "RelativeToolTip": "ApiKinoisk\\Controllers\\RewiewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:10:39.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\RentalController.cs",
+              "RelativeDocumentMoniker": "ApiKinoisk\\Controllers\\RentalController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\RentalController.cs",
+              "RelativeToolTip": "ApiKinoisk\\Controllers\\RentalController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:10:19.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PurchaseController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\PurchaseController.cs",
+              "RelativeDocumentMoniker": "ApiKinoisk\\Controllers\\PurchaseController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\PurchaseController.cs",
+              "RelativeToolTip": "ApiKinoisk\\Controllers\\PurchaseController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:09:51.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "ApiKinoisk\\Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "ApiKinoisk\\Controllers\\ContentController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:09:25.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiKinoisk\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApiKinoisk\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:09:00.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Models\\Content.cs",
+              "RelativeDocumentMoniker": "ApiKinoisk\\Models\\Content.cs",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Models\\Content.cs",
+              "RelativeToolTip": "ApiKinoisk\\Models\\Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:04:45.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiKinoisk",
+              "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk.csproj",
+              "RelativeDocumentMoniker": "ApiKinoisk\\ApiKinoisk.csproj",
+              "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk.csproj",
+              "RelativeToolTip": "ApiKinoisk\\ApiKinoisk.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T12:00:28.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ApiKinoisk\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\ApiKinoisk\\ApiKinoisk\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "ApiKinoisk\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwGEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T11:42:44.884Z",
               "EditorCaption": ""
