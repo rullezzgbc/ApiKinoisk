@@ -1,0 +1,86 @@
+﻿@page "/films"
+
+
+<section id="">
+    <div class="container">
+
+        <h1>Фильмы</h1>
+        <table class="table">
+           
+            <thead>
+                <tr>
+                    <th scope="col">ContentId</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Duration</th>
+                    <th scope="col">ReleaseDate</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">RentalPrice</th>
+                </tr>
+            </thead>
+            <tbody>
+               @foreach (var flow in result)
+                {
+                    <tr>
+                        <th scope="row">@flow.ContentId</th>
+                        <td>@flow.Title</td>
+                        <td>@flow.Description</td>
+                        <td>@flow.Duration</td>
+                        <td>@flow.ReleaseDate</td>
+                        <td>@flow.Price</td>
+                        <td>@flow.RentalPrice</td>
+                    </tr>
+                } 
+            </tbody>
+        </table>
+    </div>
+</section>
+
+
+@code {
+   public partial class Content
+    {
+        public int ContentId { get; set; }
+
+        public string Title { get; set; } = null!;
+
+        public string? Description { get; set; }
+
+        public int? Duration { get; set; }
+
+        public DateOnly? ReleaseDate { get; set; }
+
+        public decimal? Price { get; set; }
+
+        public decimal? RentalPrice { get; set; }
+
+        public int? RentalDuration { get; set; }
+
+
+    }
+
+    public Content[] result = new Content[] { };
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        var client = new HttpClient();
+
+        client.BaseAddress = new Uri("https://apikinoisk.onrender.com/");
+
+        result = await client.GetFromJsonAsync<Content[]>("api/Content");
+
+        return;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,7 @@
+wwwroot\css\app.css
+wwwroot\Img\barbi.jpg
+wwwroot\Img\опенгеймер.jpg
+wwwroot\Img\Титаник.jpg
+wwwroot\Img\форест.jpg
+wwwroot\Img\Ягнят.jpg
+wwwroot\index.html

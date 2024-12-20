@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\Client\\wwwroot\\Img\\barbi.jpg",
+      "PackagePath": "staticwebassets\\Img\\barbi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\Client\\wwwroot\\Img\\Титаник.jpg",
+      "PackagePath": "staticwebassets\\Img\\Титаник.jpg"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\Client\\wwwroot\\Img\\Ягнят.jpg",
+      "PackagePath": "staticwebassets\\Img\\Ягнят.jpg"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\Client\\wwwroot\\Img\\опенгеймер.jpg",
+      "PackagePath": "staticwebassets\\Img\\опенгеймер.jpg"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\Client\\wwwroot\\Img\\форест.jpg",
+      "PackagePath": "staticwebassets\\Img\\форест.jpg"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\timaf\\Documents\\GitHub\\ApiKinoisk\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Client.props",
+      "PackagePath": "build\\Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Client.props",
+      "PackagePath": "buildMultiTargeting\\Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Client.props",
+      "PackagePath": "buildTransitive\\Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
